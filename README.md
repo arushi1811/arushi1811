@@ -1,8 +1,11 @@
 ## Hi there 👋
 
-```
-![Visitor Count](https://profile-counter.glitch.me/arushi1811/count.svg)
-```
+- 🔭 I’m currently working as Software Engineer III at JP Morgan Chase
+- 🌱 I’m currently delving deeper into AWS
+- 👯 I’m passionate about working on projects with AMAZING designs - if you're a designer, HMU
+- 🤔 I’m looking for help with finding projects I can contribute to
+- 💬 Ask me about why UX design is the MOST important investment for your project
+- ⚡ Fun fact: I have a restaurant recommendation for most major US cities
 
 <!--
 **arushi1811/arushi1811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
