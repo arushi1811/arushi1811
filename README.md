@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+```
+![Visitor Count](https://profile-counter.glitch.me/arushi1811/count.svg)
+```
+
 <!--
 **arushi1811/arushi1811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
