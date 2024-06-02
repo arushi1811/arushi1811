@@ -7,10 +7,6 @@
 - 💬 Ask me about why UX design is the MOST important investment for your project
 - ⚡ Fun fact: I have a restaurant recommendation for most major US cities
 
-## A look at what I've been upto
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arushi1811&layout=compact&theme=tokyonight" width='40%' align='left'/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arushi1811&theme=tokyonight" width='55%' align='right'/>
-
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
 ![AWS](https://img.shields.io/badge/AWS-232F32?style=for-the-badge&logo=AmazonAWS&logoColor=white)
 ![React](https://shields.io/badge/react-black?logo=react&style=for-the-badge)
@@ -28,6 +24,14 @@
 ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+## A look at what I've been upto
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arushi1811&layout=compact&theme=tokyonight" width='40%' align='left'/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arushi1811&theme=tokyonight" width='55%' align='right'/>
+
+
+
+
 
 
 <!--
