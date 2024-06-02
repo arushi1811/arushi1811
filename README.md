@@ -7,6 +7,8 @@
 - 💬 Ask me about why UX design is the MOST important investment for your project
 - ⚡ Fun fact: I have a restaurant recommendation for most major US cities
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arushi1811&layout=compact&theme=tokyonight" width='50%' align='left'/>
+
 <!--
 **arushi1811/arushi1811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
