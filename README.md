@@ -7,8 +7,8 @@
 - 💬 Ask me about why UX design is the MOST important investment for your project
 - ⚡ Fun fact: I have a restaurant recommendation for most major US cities
 
-## Some Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arushi1811&layout=compact&theme=tokyonight" width='45%' align='left'/>
+## A look at what I've been upto
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arushi1811&layout=compact&theme=tokyonight" width='40%' align='left'/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=arushi1811&theme=tokyonight" width='55%' align='right'/>
 
 <!--
